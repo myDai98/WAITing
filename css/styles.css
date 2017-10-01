@@ -1,0 +1,43 @@
+.row-header {
+	margin: 0px auto;
+	padding: 0px auto;
+}
+
+.row-content{
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+	min-height: 300px;
+}
+
+.footer{
+	background-color: #FF9933;
+	margin: 0px auto;
+	padding: 20px 0px 20px 0px;
+
+  	width: 100%;
+}
+
+.logbutton{
+	margin: 10px;
+}
+
+
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+
+#groupnum{
+	border-radius:30px;
+}
+
+
